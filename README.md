@@ -10,8 +10,8 @@ DESCRIPTION:
 A graphical application that acts like an ATM machine using React Components.
 
 HOW TO RUN:
-The software is hosted on github here https://github.com/cincimatti/ATM-Machine.
-It can be reached at https://cincimatti.github.io/Eye-Exercise/ for live demonstrations.
+The software is hosted on github here https://github.com/cincimatti/ATM-React-App
+It can be reached at https://cincimatti.github.io/ATM-React-App/ for live demonstrations.
 
 ROADMAP:
 ROADMAPPED FEATURES: No additioanl features are roadmapped at this time.
