@@ -1,0 +1,33 @@
+#ATM {
+text-align: center;
+padding: 10px;
+background-color: slategrey;
+color: white;
+}
+
+#mode-select  {
+  text-align: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#ATM-Machine {
+  text-align: center;
+}
+
+button {
+    background-color: #0c80f3;
+    border: 6px solid #0ff166;
+    border-radius: 10px;
+    width: 150px;
+  }
+  
+  select {
+    display: block;
+    margin-bottom: 20px;
+  }
