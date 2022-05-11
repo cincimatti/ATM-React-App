@@ -19,7 +19,7 @@ ROADMAPPED FEATURES: No additioanl features are roadmapped at this time.
 
 OPERATING INSTRUCTIONS:
 The application is intended to act as an ATM machine that holds state information (account balance).
-Users can initiate deposits or withdrawls using the webapp. 
+Users can initiate deposits or withdraws using the webapp. 
 
 LICENSE INFORMATION:
 Licensing information can be found in the ATM-Machine repo locate the "LICENSE" file.
