@@ -13,7 +13,8 @@ HOW TO RUN:
 The software is hosted on github here https://github.com/cincimatti/ATM-React-App
 It can be reached at https://cincimatti.github.io/ATM-React-App/index.html for live demonstrations.
 
-ROADMAP:
+UPDATES & ROADMAP:
+UPDATES: System includes a variety of styling improvements, center alignment, and spacing.
 ROADMAPPED FEATURES: No additioanl features are roadmapped at this time.
 
 OPERATING INSTRUCTIONS:
